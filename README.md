@@ -7,6 +7,6 @@
 
 - CS Student at [HKA](https://www.h-ka.de/)
 
-- I like Python
+- I like Python, Java and other High-Level Languages
 
 
